@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "development": "vercel dev"
+    "development": "vercel dev -listen 1010"
   },
   "keywords": [],
   "author": "",
