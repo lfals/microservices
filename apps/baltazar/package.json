@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "development": "vercel dev --listen 1010",
-    "migrate": "npx prisma migrate dev --name init  "
+    "development": "vercel dev --listen 1010"
   },
   "keywords": [],
   "author": "",

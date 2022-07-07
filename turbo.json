@@ -7,7 +7,7 @@
     "lint": {
       "outputs": []
     },
-    "dev": {
+    "development": {
       "cache": false
     }
   }
