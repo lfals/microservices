@@ -1,0 +1,12 @@
+{
+  "name": "melchior",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "development": "vercel dev --listen 1030"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

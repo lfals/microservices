@@ -1,0 +1,12 @@
+{
+  "name": "gaspar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "development": "vercel dev --listen 1020"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

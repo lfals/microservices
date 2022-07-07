@@ -1,0 +1,13 @@
+{
+  "name": "baltazar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "development": "vercel dev --listen 1010",
+    "migrate": "npx prisma migrate dev --name init  "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
